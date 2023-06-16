@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">keyboard_testapp</string>
+    <string name="key_icon">Key icon</string>
+    <string name="change_system_keyboard">Установка клавиатуры</string>
+    <string name="keyboard_options">Настройки</string>
+    <string name="test">Тест</string>
+    <string name="install_keyboard">Установка </string>
+    <string name="enter_something">Введите любой текст</string>
+    <string name="change_color">Изменить цвет</string>
+</resources>
